@@ -77,8 +77,9 @@ body{
 }
 
 .flower{
-    position: relative;
+    position: fixed;
 }
+
 
 
 .flower__glass{
